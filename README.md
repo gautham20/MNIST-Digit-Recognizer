@@ -32,3 +32,4 @@ The accuracy achieved in test data is __97.73__
 
 ![result accuracy](https://github.com/gautham20/MNIST-Digit-Recognizer/blob/master/resulta.png)
 ![result cost](https://github.com/gautham20/MNIST-Digit-Recognizer/blob/master/resultc.png)
+accuracy and cost graphs for other runs are available in the Ipython notebook
