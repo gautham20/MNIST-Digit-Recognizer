@@ -29,3 +29,6 @@ Hyper-parameters Learning rate (eta) and Regularization factor (lambda) was vari
 | A2 simple+CC+R+WI         | 99.026                      | 97.88                    |
 
 The accuracy achieved in test data is __97.73__
+
+![result accuracy](https://github.com/gautham20/MNIST-Digit-Recognizer/blob/master/resulta.png)
+![result cost](https://github.com/gautham20/MNIST-Digit-Recognizer/blob/master/resultc.png)
